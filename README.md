@@ -1,4 +1,4 @@
 # SampleModal
 
 Hosted in Netlify
-https://papaya-starlight-360e95.netlify.app/
+https://samplemodal-360e95.netlify.app/
